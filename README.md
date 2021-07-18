@@ -10,5 +10,5 @@
 
 ##### <a name="Image"></a> Изображение
 <p align="center">
-  <img src="https://github.com/AlexDyatlov/Email-template/readme.png">
+  <img src="https://github.com/AlexDyatlov/Email-template/blob/master/readme.png">
 </p>
